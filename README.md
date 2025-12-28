@@ -41,24 +41,6 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HDVinnie&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="HDVinnie's trophies"/>
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HDInnovations&repo=UNIT3D&theme=dracula)](https://github.com/HDInnovations/UNIT3D)
-
-</div>
-
----
-
 <div align="center">
 
 ### 🤝 Let's Connect!
@@ -69,7 +51,7 @@
 
 ### 💰 Support My Work
 
-[![Square](https://img.shields.io/badge/Square-000000?style=for-the-badge&logo=square&logoColor=white)](https://square.link/u/VjB1CNfm)
+[![Square](https://img.shields.io/badge/Polar-000000?style=for-the-badge&logo=polar&logoColor=white)](https://hdinnovations.github.io/HDInnovations/donate.html)
 
 </div>
 
